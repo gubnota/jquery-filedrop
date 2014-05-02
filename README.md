@@ -1,6 +1,12 @@
 jQuery filedrop plugin
 ======================
 
+Main changes with original plugin
+-------------------------------------
+* Added multilingual support (filenames)
+* Designed for bootstrap standard
+* Improved upload logic
+
 HTML5 drag desktop files into browser
 -------------------------------------
 
